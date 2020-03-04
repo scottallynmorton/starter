@@ -1,0 +1,1 @@
+{'DEVITO_LOGGING': 'PERF', 'DEVITO_PLATFORM': 'nvidiaX', 'DEVITO_ARCH': 'clang'}
